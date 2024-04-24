@@ -34,6 +34,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 4.Output the shifted bit from the last stage of the register.
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
+
+
 **PROGRAM**
 
 
@@ -64,8 +66,6 @@ endmodule
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-
-
 ![b](https://github.com/Jegatheeswarir/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/144871077/eeead43d-48fc-45e6-81e7-5200a8a8a0b0)
 
 **RESULTS**
